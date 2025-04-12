@@ -1,16 +1,86 @@
-## Hi there 👋
+## 👋 Hi, I’m Jalller! 👋
 
-<!--
-**Jalller/Jalller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **A little about me**
 
-Here are some ideas to get you started:
+- 💻 Backend-leaning dev on a mission to full-stack it up  
+- 🧩 Somewhere between “I got this” and Googling how to center a div  
+- 🌱 Currently leveling up in frontend (that domain name’s about to earn its keep)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🛠️ **Tech I've been hands-on with lately**
+
+- **Languages & Frameworks:** Java, Javalin, JPA, Hibernate, Lombok  
+- **Database:** PostgreSQL  
+- **DevOps-ish:** Docker, GitHub Actions  
+- **Other familiar faces:** Git, VS Code, Markdown, IntelliJ, Postman
+
+> ...and probably more that I’ve repressed for memory space 🧠💥
+
+
+---
+
+🧰 **Languages and Tools**
+
+Tap a badge. Learn a thing. Be impressed (or at least mildly informed). 
+
+Let’s be real: most devs are just one quick Google away from looking like geniuses anyway._
+
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)](https://www.java.com/)
+[![Javalin](https://img.shields.io/badge/Javalin-5A29E4?style=flat&logo=java&logoColor=white)](https://javalin.io/)
+[![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)](https://hibernate.org/)
+[![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=flat&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)](https://docs.github.com/en/actions)
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+
+---
+
+📌 **Pinned Projects**  
+*To be filled in later*
+
+
+---
+
+🚀 **Next up?**
+
+- Survive frontend  
+- Build something cool 
+- Maybe feel like less of an imposter
+
+---
+
+
+### 💡 Fun facts / currently into:
+- Learning: React, cat communication, and how CSS is still a mystery  
+- Breaks builds and bakes cookies (sometimes simultaneously) 🍪
+- I also question my life choices while scrolling through error logs and talk to my cat about debug errors. It’s a system.
+- Backend Adventures: Debugging Java errors, refactoring Javalin routes, and figuring out why PostgreSQL won’t connect.
+- Forgetting one Java annotation and spiraling — it’s tradition at this point
+
+---
+
+🤝 **Let’s connect?**
+
+Find me here on GitHub, or over on [LinkedIn](https://www.linkedin.com/in/jantie-larsen-6489ba35b/) if you’re into professional chaos.
+
+
+**Follow my coding journey on Instagram**  
+
+
+*See the behind-the-scenes, cat moments, and coding chaos. Come join the adventure!*
+
+
+👉 [**@debugsncookies**](https://www.instagram.com/debugsncookies)
+
+---
+
+
+
+# 🌀 Still figuring it out. Still showing up.
+*Currently building a new portfolio of personal projects — focused on quality, clean code, and actual documentation 
+(no more half-finished school assignments, promise).*
+
+> ...⭐️ Feel free to star this repo — it won’t fix any bugs, but it *will* boost my morale!
