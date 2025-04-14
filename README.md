@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Jalller! 👋
 
 🎯 **A little about me**
-- 🎓 Student at **Cphbusiness** — Software Development, third semester. Professional code breaker
+- 🎓 Professional code breaker. also a student at **Cphbusiness** — Software Development, third semester.
 - 💻 Backend-leaning dev on a mission to full-stack it up  
 - 🧩 Somewhere between “I got this” and Googling how to center a div  
 - 🌱 Currently leveling up in frontend (that domain name’s about to earn its keep)
