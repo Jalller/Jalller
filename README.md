@@ -1,10 +1,11 @@
 ## 👋 Hi, I’m Jalller! 👋
 
 🎯 **A little about me**
-- 🎓 Professional code breaker. also a student at **Cphbusiness** — Software Development, third semester.
-- 💻 Backend-leaning dev on a mission to full-stack it up  
-- 🧩 Somewhere between “I got this” and Googling how to center a div  
-- 🌱 Currently leveling up in frontend (that domain name’s about to earn its keep)
+
+🎓 Professional code breaker. Also a student at **Cphbusiness** — Software Development, third semester.  
+💻 Backend enthusiast with a strong focus on **Java**, **APIs**, and **database design** — full-stack is the goal, but backend is where I shine.  
+🧩 Somewhere between “I got this” and Googling how to center a div (but mostly backend stuff).  
+🌱 Currently leveling up in frontend (because apparently that’s a thing now) — but backend will always be my first love.  
 
 ---
 
